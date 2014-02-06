@@ -1,4 +1,0 @@
-Para ignorar archivos en git es necesario modificar el archivo .gitignore
-se puede abrir mediante un: cat .gitignore y se indican en este
-archivo que es lo que se desea omitir, ya sean los archivos en si
-o se pueden usar expresiones regulares para evitar 'X' clase de archivos.
